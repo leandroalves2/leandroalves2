@@ -2,7 +2,6 @@
 # Olá 👋, Eu sou Leandro da Silva Alves
 
 
-Oi, eu sou um iniciante em desenvolvimento Back-End, moro em Mogi das Cruzes - SP. 
 Eu comecei a programar em 2022, quando adiquiri um curso na Udemy de Desenvolvedor Web aonde aprendi os fundamentos de HTML5, CSS e um pouco de Javascript. Após isso me interessei na area e comecei outro curso de C# Programação Orientada a Objetos, e com isso ingressei na Univesp cursando Bacharel em Tecnologia da Informação. Comecei mais estudos em JAVA com a empresa Rocketseat, aonde desenvolvi um pequeno projeto de certificações e agora faço meu TCC na Univesp todo em Java Spring. Atualmente faço bootcamp em desenvolvimento JAVA pela DIO/Santander.
 
 ## 🔗 Conecte-se comigo
