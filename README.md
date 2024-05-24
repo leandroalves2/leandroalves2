@@ -1,10 +1,9 @@
+# Hi 👋, I'm Leandro Alves
 
-# Olá 👋, Eu sou Leandro da Silva Alves
 
+I'm a technology enthusiast with a passion for software development. My journey began in 2022 when I acquired foundational skills in HTML5, CSS, and JavaScript through a course on Udemy. I then deepened my programming knowledge by completing a C# Object-Oriented Programming course. Currently, I'm pursuing a Bachelor's degree in Information Technology at UNIVESP, where I'm working on my thesis project using Java Spring. I also have practical experience in Java development, gained through courses at Rocketseat and participation in a Java development bootcamp offered by DIO/Santander.
 
-Eu comecei a programar em 2022, quando adiquiri um curso na Udemy de Desenvolvedor Web aonde aprendi os fundamentos de HTML5, CSS e um pouco de Javascript. Após isso me interessei na area e comecei outro curso de C# Programação Orientada a Objetos, e com isso ingressei na Univesp cursando Bacharel em Tecnologia da Informação. Comecei mais estudos em JAVA com a empresa Rocketseat, aonde desenvolvi um pequeno projeto de certificações e agora faço meu TCC na Univesp todo em Java Spring. Atualmente faço bootcamp em desenvolvimento JAVA pela DIO/Santander.
-
-## 🔗 Conecte-se comigo
+## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-silva-alves-2b8796152/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroalves2)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:leandro_alvesbr@outlook.com)
@@ -12,9 +11,9 @@ Eu comecei a programar em 2022, quando adiquiri um curso na Udemy de Desenvolved
 
 
 
-## 📚 Tecnologias em estudo:
+## 📚 Technologies being studied:
 
-### 📋 Linguagens
+### 📋 Languages
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -24,7 +23,7 @@ Eu comecei a programar em 2022, quando adiquiri um curso na Udemy de Desenvolved
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-### 💻 Ferramentas
+### 💻 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
