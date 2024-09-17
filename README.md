@@ -1,14 +1,17 @@
 # Hi 👋, I'm Leandro Alves
 
-I am an Information Technology student at Univesp, expected to graduate in 2025. During my studies, I have built a strong foundation in software development through academic projects and community contributions. I have hands-on experience with Java, Spring Boot, SQL, and REST, and I am committed to continuous learning and professional growth.
+I am an Information Technology student at Univesp, expected to graduate in 2025. During my studies, I have built a solid foundation in software development through academic projects and community contributions. I have hands-on experience with Java, Spring Boot, SQL, and REST, and I am committed to continuous learning and professional growth.
 
-I have participated in various practical projects, including the development of a web application for managing beneficiaries at APAJAC and the creation of RESTful APIs using Java 17, Spring Boot 3, and OpenAPI. I have also worked on projects involving C#, .NET, and ASP.NET Core, gaining experience with various tools and technologies. I completed the DIO bootcamp in partnership with Santander focusing on Java.
+I have participated in various practical projects, including the development of a web application for managing beneficiaries at APAJAC, and creating RESTful APIs using Java 17, Spring Boot 3, and OpenAPI. I have also worked on projects involving C#, .NET, and ASP.NET Core, gaining experience with a range of tools and technologies.
+
+In addition to these experiences, I completed the Java bootcamp organized by DIO in partnership with Santander, where I developed a strong expertise in Java and engaged in practical challenges and hands-on projects. I am also a DIO Campus Expert (Class 09), a role that has allowed me to access exclusive content, live mentorship, and coding challenges. This experience has been essential for enhancing my skills and expanding my network in the technology sector.
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-silva-alves-2b8796152/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leandroalves2)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:leandro_alvesbr@outlook.com)
-
+<a href="https://www.dio.me/users/leandro_alvesbr">
+  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="60">
+</a>
 
 
 
