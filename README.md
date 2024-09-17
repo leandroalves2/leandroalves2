@@ -1,7 +1,8 @@
 # Hi 👋, I'm Leandro Alves
 
+I am an Information Technology student at Univesp, expected to graduate in 2025. During my studies, I have built a strong foundation in software development through academic projects and community contributions. I have hands-on experience with Java, Spring Boot, SQL, and REST, and I am committed to continuous learning and professional growth.
 
-I'm a technology enthusiast with a passion for software development. My journey began in 2022 when I acquired foundational skills in HTML5, CSS, and JavaScript through a course on Udemy. I then deepened my programming knowledge by completing a C# Object-Oriented Programming course. Currently, I'm pursuing a Bachelor's degree in Information Technology at UNIVESP, where I'm working on my thesis project using Java Spring. I also have practical experience in Java development, gained through courses at Rocketseat and participation in a Java development bootcamp offered by DIO/Santander.
+I have participated in various practical projects, including the development of a web application for managing beneficiaries at APAJAC and the creation of RESTful APIs using Java 17, Spring Boot 3, and OpenAPI. I have also worked on projects involving C#, .NET, and ASP.NET Core, gaining experience with various tools and technologies. I completed the DIO bootcamp in partnership with Santander focusing on Java.
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-silva-alves-2b8796152/)
