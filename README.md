@@ -12,6 +12,9 @@ In addition to these experiences, I completed the Java bootcamp organized by DIO
 <a href="https://www.dio.me/users/leandro_alvesbr">
   <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="60">
 </a>
+<a href="https://medium.com/@Leandro_Alvesbr">
+  <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB@1x.png?raw=true" alt="medium" width="100">
+</a>
 
 
 
