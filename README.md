@@ -51,11 +51,12 @@ In addition to these experiences, I completed the Java bootcamp organized by DIO
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230079A0.svg?style=for-the-badge&logo=pgadmin&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-%23005371.svg?style=for-the-badge&logo=atlassian-confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A8BB4.svg?style=for-the-badge&logo=jira&logoColor=white)
-
+![Photoshop](https://img.shields.io/badge/Photoshop-%23B9361C.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
 
 ### 🏢 Office
 
+![Outlook](https://img.shields.io/badge/Outlook-%23007568.svg?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
