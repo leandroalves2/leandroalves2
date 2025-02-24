@@ -49,6 +49,9 @@ In addition to these experiences, I completed the Java bootcamp organized by DIO
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23F7F7F7.svg?style=for-the-badge&logo=xampp&logoColor=black)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%230A2C1E.svg?style=for-the-badge&logo=dbeaver&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-%230079A0.svg?style=for-the-badge&logo=pgadmin&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-%23005371.svg?style=for-the-badge&logo=atlassian-confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-%230A8BB4.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 
 
 ### 🏢 Office
