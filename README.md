@@ -1,10 +1,12 @@
 # Hi 👋, I'm Leandro Alves
 
-I am an Information Technology student at Univesp, expected to graduate in 2025. During my studies, I have built a solid foundation in software development through academic projects and community contributions. I have hands-on experience with Java, Spring Boot, SQL, and REST, and I am committed to continuous learning and professional growth.
+I am a student of Information Technology at Univesp, currently in my final semester. Throughout the course, I have developed a strong foundation in Java, Spring Boot, SQL, and REST, participating in academic projects and collaborating with the community.
 
-I have participated in various practical projects, including the development of a web application for managing beneficiaries at APAJAC, and creating RESTful APIs using Java 17, Spring Boot 3, and OpenAPI. I have also worked on projects involving C#, .NET, and ASP.NET Core, gaining experience with a range of tools and technologies.
+Currently, I work as a Full Stack PHP Developer at Integra - Inteligência em Negócios, where I am responsible for creating scalable and robust solutions for the transportation sector. On a daily basis, I develop management systems, working on both the backend with PHP and the frontend using JavaScript, HTML, CSS, and Bootstrap. I have solid experience in MySQL and SQL Server databases, as well as implementing interactive data visualizations with ApexCharts. I am always looking to optimize processes and increase operational efficiency by delivering innovative solutions that meet the company's needs.
 
-In addition to these experiences, I completed the Java bootcamp organized by DIO in partnership with Santander, where I developed a strong expertise in Java and engaged in practical challenges and hands-on projects. I am also a DIO Campus Expert (Class 09), a role that has allowed me to access exclusive content, live mentorship, and coding challenges. This experience has been essential for enhancing my skills and expanding my network in the technology sector.
+I also work as a Backend Java Developer on the APAJAC project, where I am part of a team of 8 students dedicated to creating an application aimed at improving the institution's management. I am responsible for developing RESTful APIs using Java 17 and Spring Boot 3, contributing to the creation of efficient solutions that meet the needs of APAJAC.
+
+I also have experience with C#, .NET, and ASP.NET Core. After completing the Java bootcamp at DIO, I was recognized as a DIO Campus Expert, which has expanded my network and enhanced my skills in the technology sector.
 
 ## 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-silva-alves-2b8796152/)
