@@ -1,24 +1,17 @@
 # Hi 👋, I'm Leandro Alves
 
-I am a student of Information Technology at Univesp, currently in my final semester. Throughout the course, I have developed a strong foundation in Java, Spring Boot, SQL, and REST, participating in academic projects and collaborating with the community.
+**B.S. in Information Technology & B.S. in Business Administration**
 
-Currently, I work as a Full Stack PHP Developer at Integra - Inteligência em Negócios, where I am responsible for creating scalable and robust solutions for the transportation sector. On a daily basis, I develop management systems, working on both the backend with PHP and the frontend using JavaScript, HTML, CSS, and Bootstrap. I have solid experience in MySQL and SQL Server databases, as well as implementing interactive data visualizations with ApexCharts. I am always looking to optimize processes and increase operational efficiency by delivering innovative solutions that meet the company's needs.
+I am a Full Stack Developer who bridges the gap between business strategy and technical execution. I specialize in building robust, scalable solutions for critical systems, ranging from complex fiscal integrations to real-time data visualization.
 
-I also work as a Backend Java Developer on the APAJAC project, where I am part of a team of 8 students dedicated to creating an application aimed at improving the institution's management. I am responsible for developing RESTful APIs using Java 17 and Spring Boot 3, contributing to the creation of efficient solutions that meet the needs of APAJAC.
+### 🚀 Professional Background
 
-I also have experience with C#, .NET, and ASP.NET Core. After completing the Java bootcamp at DIO, I was recognized as a DIO Campus Expert, which has expanded my network and enhanced my skills in the technology sector.
+* **Full Stack PHP Developer:** Currently at **Integra - Inteligência em Negócios**, where I develop high-precision management systems for the transportation sector. I handle complex business rules, fiscal integrations, and front-end interfaces using **JavaScript, Bootstrap, and ApexCharts**.
+* **Backend Java Developer:** Working on the **APAJAC Project**, developing RESTful APIs with **Java and Spring Boot**. I focus on implementing Design Patterns and robust security to improve institutional management.
+* **Data Intelligence:** I build custom data analysis tools from scratch, using **SQL (MySQL, SQL Server)** for extraction and **JavaScript (Leaflet/ApexCharts)** for real-time monitoring and dashboards.
+* **Business Mindset:** My background in Business Administration allows me to understand operational costs and efficiency, translating management needs into high-quality code.
 
-## 🔗 Connect with me
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-silva-alves-2b8796152/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:leandro_alvesbr@outlook.com)
-<a href="https://www.dio.me/users/leandro_alvesbr">
-  <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" alt="DIO" width="60">
-</a>
-<a href="https://medium.com/@Leandro_Alvesbr">
-  <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB@1x.png?raw=true" alt="medium" width="100">
-</a>
-
-
+---
 
 ## 📚 Technologies being studied:
 
